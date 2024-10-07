@@ -6,47 +6,37 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
+## Getting close to nature
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/nature1.JPG">
+<img src="/images/nature2.JPG">
+<img src="/images/nature3.JPG">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
 
-## Workshop
+<br>Nature removes my worries, refreshes my body, and brings me courage to address any challenges. 
 
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+I extremely enjoy the feeling of being getting close to nature. 
 
-[best universities in my hometown]:https://www.fzu.edu.cn/
+By the way, it would be nice if I could get a paper published in Nature ( Just kidding ).
 
-
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
 
 ## My Cat
 
-She is my love. Her name is Qbao (Q宝).
+This is my kitten, his name is McLuhan, but we all call him Kitten ( 小猫 ) or Xiao Bao ( 小宝 ) . 
+
+He is a cute kitten I adopted during my undergraduate studies. 
+
+Taking care of him should be my life's hobby!
 
 <div>
-<img src="/images/cat.JPG">
+<img src="/images/mycat.JPG">
 </div>
-<br>
 
-## Chat with me
+## Past Hobbies
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
+I previously enjoyed badminton playing, vlog making, and movie watching. 
 
-<!-- Calendly inline widget begin -->
+However, I have no time to do any of these things recently.
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-
+I hope to pick up these hobbies in my free time :D
