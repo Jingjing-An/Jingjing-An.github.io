@@ -4,7 +4,9 @@ layout: page
 
 # About Me
 
-<img src="C:\Users\dell\Documents\GitHub\Jingjing-An.github.io\anjingjing.jpg" alt="anjingjing" style="zoom:35%;" />
+<img src="https://jingjing-an.github.io/anjingjing.jpg" alt="anjingjing" style="zoom:35%;" />
+
+
 
 Here is **Jingjing An (Alyssia, 安静静)**.
 
