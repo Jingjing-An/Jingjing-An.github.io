@@ -15,17 +15,12 @@ title: Awards
 
 ## Campus Practice
 
-- Jun 2024：Outstanding Undergraduate Entrepreneurship Program<br>
+- Jun 2024：Outstanding Undergraduate Entrepreneurship Program<br>**24-hour self-service medical emergency cabinets**
 
-  **24-hour self-service medical emergency cabinets**
+- Jan 2022：Outstanding Undergraduate Innovation Program<br>**Analysis of the Motivation of “Digital Labor” from the Perspective of Gender Symbols**
 
-- Jan 2022：Outstanding Undergraduate Innovation Program<br>
+- Decr 2021：Outstanding Student Executive Chairman<br>**17th Capital University Environmental Culture Season**
 
-  **Analysis of the Motivation of “Digital Labor” from the Perspective of Gender Symbols**
-
-- Decr 2021：Outstanding Student Executive Chairman<br>
-
-  **17th Capital University Environmental Culture Season**
 
 ## Internship Experience
 
