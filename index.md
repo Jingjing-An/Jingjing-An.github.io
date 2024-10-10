@@ -10,7 +10,7 @@ layout: page
 
 Here is **Jingjing An (安静静)**.
 
-I am a freshman graduate student at the School of Journalism and Communication, Nanjing University, under the supervision of [Prof. Chengjun Wang](https://github.com/chengjun) in the [Socrates Group](https://github.com/SocratesClub). 
+I am a freshman graduate student at the School of Journalism and Communication, Nanjing University, under the supervision of [Prof. Cheng-Jun Wang](https://github.com/chengjun) in the [Socrates Group](https://github.com/SocratesClub). 
 
 My research interests are in computational narrative, and I hope to be able to connect with the world through data in order to write more powerful stories. 
 
