@@ -26,10 +26,11 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Hobbies
-    url: /hobbies/
   - title: Awards
     url: /awards/
+  - title: Hobbies
+    url: /hobbies/
+
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
